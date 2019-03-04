@@ -1,10 +1,10 @@
 #include<iostream>
 #include<vector>
-#include<map>
+#include<unordered_map>
 using namespace std;
 void LCA(int in_left,int in_right,int pre_root,int a,int b);
 int *in,*pre;
-map<int,int> tree;
+unordered_map<int,int> tree;
 
 int main(){
 	int N,M;
@@ -39,7 +39,7 @@ void LCA(int in_left,int in_right,int pre_root,int a,int b){
 	if(in_left>in_right)
 		return;
 	int in_root,a_in_index,b_in_index;
-	in_root = tree[pre[pre_root]];//得到中序的根 
+	in_root = tree[pre[pre_root]];
 	a_in_index = tree[a];
 	b_in_index = tree[b];
 	if(a_in_index < in_root && b_in_index < in_root)
