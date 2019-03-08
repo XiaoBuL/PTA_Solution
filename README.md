@@ -34,3 +34,4 @@
 [1031 Hello World for U ](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
 [1032 Sharing](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
 [1140 Look-and-say Sequence ](https://pintia.cn/problem-sets/994805342720868352/problems/994805344490864640) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1140%20Look-and-say%20Sequence.cpp)
+[1137 Final Grading](https://pintia.cn/problem-sets/994805342720868352/problems/994805345401028608) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
