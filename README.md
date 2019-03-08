@@ -42,5 +42,15 @@
 [1143 Lowest Common Ancestor](https://pintia.cn/problem-sets/994805342720868352/problems/994805343727501312) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1143LCA.cpp)
 [1144 The Missing Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805343463260160) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1144Missing%20Number.cpp)
 [1145 Hashing - Average Search Time](https://pintia.cn/problem-sets/994805342720868352/problems/994805343236767744) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1145Hash.cpp)
-[1142 Maximal Clique](https://pintia.cn/problem-sets/994805342720868352/problems/994805343979159552) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1142MaximalClique.cpp)
-[1142 Maximal Clique](https://pintia.cn/problem-sets/994805342720868352/problems/994805343979159552) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1142MaximalClique.cpp)
+[1146 Topological Order](https://pintia.cn/problem-sets/994805342720868352/problems/994805343043829760) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1146.cpp)
+[1147 Heaps](https://pintia.cn/problem-sets/994805342720868352/problems/994805342821531648) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1147%20Heaps.cpp)
+[1148 Werewolf - Simple Version](https://pintia.cn/problem-sets/994805342720868352/problems/1038429808099098624) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1148%20Werewolf%20-%20Simple%20Version.cpp)
+[1149 Dangerous Goods Packaging](https://pintia.cn/problem-sets/994805342720868352/problems/1038429908921778176) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1149%20Dangerous%20Goods%20Packaging.cpp)
+[1150 Travelling Salesman Problem](https://pintia.cn/problem-sets/994805342720868352/problems/1038430013544464384) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1150%20Travelling%20Salesman%20Problem.cpp)
+[1151 LCA in a Binary Tree](https://pintia.cn/problem-sets/994805342720868352/problems/1038430130011897856) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1151%20LCA%20in%20a%20Binary%20Tree.cpp)
+[1152 Google Recruitment](https://pintia.cn/problem-sets/994805342720868352/problems/1071785055080476672) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1152%20Google%20Recruitment.cpp)
+[1153 Decode Registration Card of PAT](https://pintia.cn/problem-sets/994805342720868352/problems/1071785190929788928) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1153%20Decode%20Registration%20Card%20of%20PAT(ac).cpp)
+[1154 Vertex Coloring](https://pintia.cn/problem-sets/994805342720868352/problems/1071785301894295552) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1154Vertex%20Color.cpp)
+[1155 Heap Paths](https://pintia.cn/problem-sets/994805342720868352/problems/1071785408849047552) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1155HeapPaths.cpp)
+
+
