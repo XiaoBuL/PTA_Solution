@@ -34,11 +34,11 @@
 [1031 Hello World for U ](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
 [1032 Sharing](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
 [1135 Is It A Red-Black Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805346063728640) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1135%20Is%20It%20A%20Red-Black%20Tree.cpp)
-
-[1140 Look-and-say Sequence ](https://pintia.cn/problem-sets/994805342720868352/problems/994805344490864640) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1140%20Look-and-say%20Sequence.cpp)
+[1136 A Delayed Palindrome ](https://pintia.cn/problem-sets/994805342720868352/problems/994805345732378624) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1136%20A%20Delayed%20Palindrome%20.cpp)
 [1137 Final Grading](https://pintia.cn/problem-sets/994805342720868352/problems/994805345401028608) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1137%20Final%20Grading.cpp)
 [1138 Postorder Traversal](https://pintia.cn/problem-sets/994805342720868352/problems/994805345078067200) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1138%20Postorder%20Traversal.cpp)
 [1139 First Contact](https://pintia.cn/problem-sets/994805342720868352/problems/994805344776077312) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1139%20First%20Contact%20.cpp)
+[1140 Look-and-say Sequence ](https://pintia.cn/problem-sets/994805342720868352/problems/994805344490864640) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1140%20Look-and-say%20Sequence.cpp)
 [1141 PAT Ranking of Institutions](https://pintia.cn/problem-sets/994805342720868352/problems/994805344222429184) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1141%20PAT%20Ranking%20of%20Institutions%20.cpp)
 [1142 Maximal Clique](https://pintia.cn/problem-sets/994805342720868352/problems/994805343979159552) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1142MaximalClique.cpp)
 [1143 Lowest Common Ancestor](https://pintia.cn/problem-sets/994805342720868352/problems/994805343727501312) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1143LCA.cpp)
