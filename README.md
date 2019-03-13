@@ -33,6 +33,10 @@
 [1030 Travel Plan](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
 [1031 Hello World for U ](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
 [1032 Sharing](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
+[1132 Cut Integer](https://pintia.cn/problem-sets/994805342720868352/problems/994805347145859072) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
+[1133 Splitting A Linked List](https://pintia.cn/problem-sets/994805342720868352/problems/994805346776760320) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
+[1134 Vertex Cover ](https://pintia.cn/problem-sets/994805342720868352/problems/994805346428633088) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
+
 [1135 Is It A Red-Black Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805346063728640) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1135%20Is%20It%20A%20Red-Black%20Tree.cpp)
 [1136 A Delayed Palindrome ](https://pintia.cn/problem-sets/994805342720868352/problems/994805345732378624) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1136%20A%20Delayed%20Palindrome%20.cpp)
 [1137 Final Grading](https://pintia.cn/problem-sets/994805342720868352/problems/994805345401028608) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1137%20Final%20Grading.cpp)
