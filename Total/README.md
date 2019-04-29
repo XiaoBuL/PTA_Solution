@@ -1,4 +1,6 @@
 # PTA_Solution
+##第一栏是题目原网址，第二栏是C++题目AC解法
+
 题目描述 | 解法
 -------- | ----------
 [1001 A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1001.cpp)
