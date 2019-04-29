@@ -10,6 +10,7 @@ struct node{
     struct node *right;
 };
 
+//建立一棵二叉树
 node* build(node *root,int val){
     if(root==NULL){
         root = new node();
@@ -24,7 +25,7 @@ node* build(node *root,int val){
     return root;
 }
 
-
+//判断红节点的子节点是否是黑色节点
 int Judge1(node *root){
     if(root==NULL) 
         return 1;
@@ -47,7 +48,6 @@ int getblack(node *root){
     else
         return left>right?left:right;
 }
-
 int Judge2(node *root){
     if(root==NULL)  return 1;
     int left = getblack(root->left);
