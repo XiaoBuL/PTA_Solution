@@ -59,6 +59,8 @@
 [1081 Rational Sum](https://pintia.cn/problem-sets/994805342720868352/problems/994805386161274880) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1081%20Rational%20Sum.cpp)
 [1082 Read Number in Chinese ](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1082%20Read%20Number%20in%20Chinese%20.cpp)
 [1083 List Grades](https://pintia.cn/problem-sets/994805342720868352/problems/994805383929905152) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1083%20List%20Grades.cpp)
+[1096 Consecutive Factors](https://pintia.cn/problem-sets/994805342720868352/problems/994805370650738688) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1096%20Consecutive%20Factors.cpp)
+[1097 Deduplication on a Linked List](https://pintia.cn/problem-sets/994805342720868352/problems/994805369774129152) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1097%20Deduplication%20on%20a%20Linked%20List.cpp)
 [1132 Cut Integer](https://pintia.cn/problem-sets/994805342720868352/problems/994805347145859072) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1132%20Cut%20Integer.cpp)
 [1133 Splitting A Linked List](https://pintia.cn/problem-sets/994805342720868352/problems/994805346776760320) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1133%20Splitting%20A%20Linked%20List%20.cpp)
 [1134 Vertex Cover ](https://pintia.cn/problem-sets/994805342720868352/problems/994805346428633088) | [C++](https://github.com/XiaoBuL/PTA_Solution/blob/master/1134%20Vertex%20Cover.cpp)
